@@ -1,0 +1,29 @@
+.table-pagination {
+    position: absolute;
+    bottom: 3rem;
+    left: 0;
+    right: 0;
+}
+
+.d-space-between {
+    justify-content: space-between;
+}
+
+.form-signin{ 
+    width: 100%;
+    max-width: 330px;
+    padding: 15px;
+    margin: auto;
+}
+
+.flex-col {
+    flex-direction: column;
+}
+
+.spacing-1 {
+    gap: 1rem;
+}
+
+.spacing-05 {
+    gap: .5rem;
+}
