@@ -5,7 +5,7 @@ namespace App\Controllers;
 use App\Controllers\BaseController;
 use CodeIgniter\HTTP\ResponseInterface;
 
-class Log extends BaseController
+class Logs extends BaseController
 {
     public function __construct()
     {

@@ -8,8 +8,8 @@ use CodeIgniter\Router\RouteCollection;
 $routes->get('/login', '\App\Controllers\Auth::index');
 $routes->post('/login', '\App\Controllers\Auth::login');
 
-$routes->get('/logs', '\App\Controllers\Log::index');
-$routes->get('/api/logs', '\App\Controllers\Log::getLogs');
+$routes->get('/logs', '\App\Controllers\Logs::index');
+$routes->get('/api/logs', '\App\Controllers\Logs::getLogs');
 
 $routes->get('/', '\App\Controllers\Products::index');
 $routes->get('/product', '\App\Controllers\Products::getProducts');

@@ -853,5 +853,100 @@
         "user": "admin@test.com",
         "action": "Ver listado de productos",
         "created_at": "2024-07-22 22:48:01"
+    },
+    {
+        "user": "Visitante",
+        "action": "Ver listado de productos",
+        "created_at": "2024-07-23 18:40:12"
+    },
+    {
+        "user": "Visitante",
+        "action": "Ver listado de productos",
+        "created_at": "2024-07-23 18:40:16"
+    },
+    {
+        "user": "Visitante",
+        "action": "Ver listado de productos",
+        "created_at": "2024-07-23 18:40:17"
+    },
+    {
+        "user": "Visitante",
+        "action": "Ver listado de productos",
+        "created_at": "2024-07-23 18:40:18"
+    },
+    {
+        "user": "Visitante",
+        "action": "Ver listado de productos",
+        "created_at": "2024-07-23 18:40:18"
+    },
+    {
+        "user": "Visitante",
+        "action": "Baja de producto",
+        "created_at": "2024-07-23 18:40:21"
+    },
+    {
+        "user": "Visitante",
+        "action": "Ver listado de productos",
+        "created_at": "2024-07-23 18:40:23"
+    },
+    {
+        "user": "Visitante",
+        "action": "Ver listado de productos",
+        "created_at": "2024-07-23 18:40:25"
+    },
+    {
+        "user": "Visitante",
+        "action": "Ver listado de productos",
+        "created_at": "2024-07-23 18:40:26"
+    },
+    {
+        "user": "Visitante",
+        "action": "Ver listado de productos",
+        "created_at": "2024-07-23 18:40:26"
+    },
+    {
+        "user": "Visitante",
+        "action": "Ver listado de productos",
+        "created_at": "2024-07-23 18:40:27"
+    },
+    {
+        "user": "Visitante",
+        "action": "Baja de producto",
+        "created_at": "2024-07-23 18:40:30"
+    },
+    {
+        "user": "Visitante",
+        "action": "Actualizaci\u00f3n de producto",
+        "created_at": "2024-07-23 18:40:33"
+    },
+    {
+        "user": "Visitante",
+        "action": "Ver listado de productos",
+        "created_at": "2024-07-23 18:40:35"
+    },
+    {
+        "user": "admin@test.com",
+        "action": "Ver listado de productos",
+        "created_at": "2024-07-23 18:40:55"
+    },
+    {
+        "user": "admin@test.com",
+        "action": "Ver listado de productos",
+        "created_at": "2024-07-23 18:41:00"
+    },
+    {
+        "user": "admin@test.com",
+        "action": "Ver listado de productos",
+        "created_at": "2024-07-23 18:41:05"
+    },
+    {
+        "user": "admin@test.com",
+        "action": "Ver listado de productos",
+        "created_at": "2024-07-23 18:57:49"
+    },
+    {
+        "user": "admin@test.com",
+        "action": "Ver listado de productos",
+        "created_at": "2024-07-23 18:57:55"
     }
 ]

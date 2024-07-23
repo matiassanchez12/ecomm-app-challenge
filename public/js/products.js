@@ -109,9 +109,9 @@ $(document).ready(function () {
         $('#createModal').modal('show');
     });
 
-    $('#confirmDeleteButton').on('click', function () {
+    $('#confirmDeleteButton').on('click', async function () {
         if (deleteId !== null) {
-            $.ajax({
+            const res = await $.ajax({
                 url: 'product-delete',
                 type: 'POST',
                 dataType: 'json',
@@ -136,7 +136,7 @@ $(document).ready(function () {
                     Toast.fire({
                         icon: 'success',
                         title: 'Eliminado con exito'
-                    })
+                    }) 
                 },
             });
         }
